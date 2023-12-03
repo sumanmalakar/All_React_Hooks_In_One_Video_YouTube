@@ -8,7 +8,7 @@ import MoneyState from "./components/useContext/context/MoneyState";
 import UseLayOutComponent from "./components/useLayouEffect/UseLayOutComponent";
 import UseCallbackComponent from "./components/useCallback/UseCallbackComponent";
 import UseMemoComponent from "./components/useMemo/UseMemoComponent";
-import Test from "./components/useFetch_Custom_Hook.jsx/Test";
+import Test from "./components/useFetch_Custom_Hook/Test";
 const App = () => {
   return (
     <MoneyState>
